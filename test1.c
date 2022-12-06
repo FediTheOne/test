@@ -7,5 +7,6 @@ int main(void)
 
 
     printf("5 + 5 = %d\n", somme);
+    printf("heey");
     return 0;
 }
